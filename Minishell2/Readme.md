@@ -1,4 +1,4 @@
-To compile this project you need to :
+To test this project you need to :
 - compile all the files with make command
 - run the program with ./mysh
 
