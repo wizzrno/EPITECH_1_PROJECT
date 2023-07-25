@@ -8,7 +8,7 @@ To quit the game you can :
 
 To remove all the .o files you can :
 - do the command make clean
-- do the command make fclean (this command will also remove the binary ./bsq)
+- do the command make fclean (this command will also remove the binary ./my_hunter)
 
 To recompile the program you can :
 - do the command make re
